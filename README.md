@@ -35,7 +35,7 @@ Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 ## PROGRAM
 ```
 Developed BY: SRI HARISH M
-Register Number:212220230044
+Register Number:212220230047
 ```
   
 ```python
